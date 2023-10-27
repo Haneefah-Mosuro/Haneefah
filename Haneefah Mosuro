@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>History of HTML</title>
+</head>
+<body bgcolor="aqua">
+  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="200" height="200">
+</img></center>
+ <h1>History of HTML</h1>
+  <p>
+    HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text Markup Language.It allows construction of links, images, tables, lists, videos, and other multimedia content using tags and attributes. 
+  </p>
+  <p>
+    HTML(HyperText Markup Language) was created by Tim Berners-Lee, a software engineer, in late 1991. Since then, the language has been evolving and changing.It is a language used for structuring and presenting content on the web.
+  </p>
+  <p>
+HTML 1.0 was realeased  in 1993. It was the first version of HTML but was not really noticed by the public. Not until 1995, when HTML 2.0 was realeased did delevopers start using HTML. It was used until HTML 3.0 was realeased by Dave Raggett in 1997. Then in 1999 HTML 4.1 was realeased and was widely used until HTML 5.0 was realeased in 2014. 
+  </p>
+     <a href="https://www.bu.edu/lernet/artemis/years/2020/projects/FinalPresentations/HTML/historyofhtml.html">Resource 1</a><br>
+  <a href="https://www.hostinger.com/tutorials/what-is-html#The-History-of-HTML">Resource 2</a><br>
+  <a href="https://www.w3schools.in/html/history/">Resource 3</a><br>
+  <video src="https://www.youtube.com/watch?v=_lO1b_5lWHI" width="400" height="400" controls>
+  </video><br>
+  My codes: <br>
+  <img src="Screenshot 2023-10-26 193148.png" width="300" height="300" >
+  <img src="Screenshot 2023-10-26 193239.png"  width="300" height="300">
+  <img src="Screenshot 2023-10-26 193323.png" width="300" height="300" >
+  
+</body>
+</html>
